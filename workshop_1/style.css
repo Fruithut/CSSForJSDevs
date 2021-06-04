@@ -50,7 +50,7 @@ main {
 
 .max-width-wrapper {
   max-width: 768px;
-  margin: auto;
+  margin: 0 auto;
   padding: 0 24px;
 }
 
